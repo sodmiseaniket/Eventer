@@ -1,0 +1,2 @@
+# Eventer
+Event Management Platform
